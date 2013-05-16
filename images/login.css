@@ -1,0 +1,40 @@
+body {
+	background:#FFF;
+	font:normal 11px Arial, Helvetica, sans-serif;
+	color:#444;
+}
+/* login element */
+#loginadmin {
+	width:350px;
+	height:231px;
+	background:url(bglogin.jpg) no-repeat;
+	margin:75px auto;
+	padding:20px;
+	position:relative;
+}
+#loginadmin h3 {
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#006600;
+	margin:0 0 10px 0;
+	padding:0;
+}
+#loginadmin form {
+	margin:0;
+	padding:0;
+}
+#loginadmin form label {
+	font:normal 11px Arial, Helvetica, sans-serif;
+	margin:0 10px 5px 0;
+	padding:0 0 5px 0;
+	height:15px;
+	color:#444;
+}
+#loginadmin form input {
+	font:bold 18px Arial, Helvetica, sans-serif;
+	color:#444;
+	margin:0 0 10px 0;
+	padding:4px;
+}
+#loginadmin form br {
+	clear:both;
+}
